@@ -7,9 +7,9 @@
 - Hackathons
 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualroyalty&layout=compact" alt="GitHub Top Languages"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualroyalty&layout=compact" alt="GitHub Top Languages"/>
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=virtualroyalty&show_icons=true"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=virtualroyalty&show_icons=true"/>
 
 <br>
 
