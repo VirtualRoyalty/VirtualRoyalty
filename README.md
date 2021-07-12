@@ -7,4 +7,4 @@
 ### About
 - Research Engineer
 - Data Science, ML/DL/NLP
-- Hackaths
+- Hackathons
