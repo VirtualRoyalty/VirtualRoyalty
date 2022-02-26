@@ -28,7 +28,7 @@
 <br>
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=light)](https://quotes-github-readme.vercel.app/api)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://quotes-github-readme.vercel.app/api)
 
 
 
