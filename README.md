@@ -13,8 +13,6 @@
 
 <dev>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=virtualroyalty&show_icons=true" />
-  
-  
 
 </dev>
 <br>
@@ -26,10 +24,11 @@
 - Hackathons
 
 
-<br>
-<br>
-<center>
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</center>
+<br>
+<br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=light)](https://quotes-github-readme.vercel.app/api)
+
+
+
