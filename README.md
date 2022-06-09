@@ -9,10 +9,13 @@
 </dev> -->
 <br>
 
-![](https://komarev.com/ghpvc/?username=VirtualRoyalty)
+![views](https://komarev.com/ghpvc/?username=VirtualRoyalty)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VirtualRoyalty&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <dev>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=virtualroyalty&show_icons=true" />
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=VirtualRoyalty&count_private=true&show_icons=true&theme=apprentice" />
 
 </dev>
 <br>
@@ -26,9 +29,11 @@
 
 
 <br>
+Contact info:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadik_alp)
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://quotes-github-readme.vercel.app/api)
 
 
 
