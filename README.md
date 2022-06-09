@@ -11,7 +11,7 @@
 
 ![views](https://komarev.com/ghpvc/?username=VirtualRoyalty)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VirtualRoyalty&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VirtualRoyalty&no-frame=true&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <dev>
