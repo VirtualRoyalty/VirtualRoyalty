@@ -1,9 +1,6 @@
 # Hi, there 👋!
 <p align="center">
 <a href="https://github.com/VirtualRoyalty">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=2000&pause=100&multiline=true&width=500&height=120&lines=Vadim+Alperovich;Data Scientist+%7C+Master+Student; AI+%7C+NLP+%7C+NLU" alt="Typing SVG" />
-
-  </a>
 
 
 <!-- 
