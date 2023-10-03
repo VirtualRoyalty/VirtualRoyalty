@@ -3,12 +3,6 @@
 <a href="https://github.com/VirtualRoyalty">
 
 
-<!-- 
-<dev>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualroyalty&layout=compact" alt="GitHub Top Languages"/>
-
-</dev> -->
-<br>
 
 ![views](https://komarev.com/ghpvc/?username=VirtualRoyalty)
 
