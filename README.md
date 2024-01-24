@@ -19,7 +19,7 @@
 
 
 ### About
-- Data scientist, NLP Engineer
+- Data scientist, NLP/LLM Engineer
 - Applied mathematics and informatics, HSE NN (bachelor's)
 - Intellectual Data Analysis, HSE NN (master degree)
 - Hackathons
